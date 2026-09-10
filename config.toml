@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#E12E2E"
+backgroundColor = "#111111"
+secondaryBackgroundColor = "#1A1A1A"
+textColor = "#FFFFFF"
+linkColor = "#E12E2E"
+borderColor = "#4A4A4A"
+showWidgetBorder = true
+font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap, Century Gothic, sans-serif"
+headingFont = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap, Century Gothic, sans-serif"
+baseFontSize = 16
+baseFontWeight = 400
+headingFontSizes = ["1.85rem", "0.95rem", "0.95rem", "0.95rem", "0.95rem", "0.95rem"]
+headingFontWeights = [900, 700, 700, 700, 700, 700]
+baseRadius = "none"
+buttonRadius = "none"
+
+[theme.sidebar]
+backgroundColor = "#0A0A0A"
+secondaryBackgroundColor = "#1A1A1A"
